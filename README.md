@@ -1,4 +1,4 @@
-# MindBreaker
+# CodeBreaker
 ## A Simple Code Breaker Game
 
 ### Client Side
