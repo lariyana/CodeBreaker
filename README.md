@@ -9,8 +9,8 @@ Uses Jquery and Node.Js
 
 
 ### To Do
--Create Client Side
--Create Server Side
--Set up response function
--Create Variables to between Client and Server
--York U Server ?
+- Create Client Side
+- Create Server Side
+- Set up response function
+- Create Variables to between Client and Server
+- York U Server ?
