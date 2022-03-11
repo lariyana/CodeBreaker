@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica,Arial,sans-serif;
+    line-height: 20px;
+    margin: 0px 0px 0px 20px;
+    font-size: 14px;
+    background-color: #94cff3;
+}
+
+img {
+    border: 0 none;
+	/*margin-left: 1px;*/
+}
+
+img[id*='shadow'] {
+	opacity: 1;
+}
+
+#name {
+    color: red;
+}
+
+#gameboard {
+    width: 400px;
+    height: 500px;
+    margin-left: 0px;
+    margin-right: auto;
+    background-color: black;
+    background: url("./images/background2.jpg") repeat;
+    -webkit-box-shadow: 4px 4px 10px 6px rgba(90, 90, 90, 0.6);
+    position: relative;
+    -webkit-border-radius: 6px;
+}
+
+#cover {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    margin: 0px;
+    padding: 0px;
+    visibility: visible;
+}
+
